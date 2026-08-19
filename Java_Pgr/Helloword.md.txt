@@ -1,6 +1,6 @@
 # 💻 Java Program Collection
 
-> 📚 A collection of **Java programs**.
+> 📚 A collection of **Java programs and problem-solving solutions**.
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)
 ![Solutions](https://img.shields.io/badge/Solutions-1-blue?style=for-the-badge)
@@ -17,9 +17,9 @@ Write a Java program to print:
 
 > **Love you Java..............!**
 
-//### 💡 Approach
+### 💡 Approach
 
-//Use Java's `System.out.println()` method to print the //required message.
+Use Java's `System.out.println()` method to print the required message.
 
 ### 💻 Solution
 
