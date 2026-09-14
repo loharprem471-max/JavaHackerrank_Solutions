@@ -1,3 +1,6 @@
+/*
+WAP print I Love java message;
+*/
 class HelloWord
 {
 public static void main(String args[])
